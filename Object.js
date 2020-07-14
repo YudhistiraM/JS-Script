@@ -1,6 +1,6 @@
-// Pengelolaan Object ANGKOT
+// JS- Object "Case : ANGKOT"
 
-// cara constructor
+// this is example using constructor function (keyword new)
 
 function Angkot(sopir, trayek, penumpang, kas){
 //   Properti
@@ -40,7 +40,6 @@ var angkot2 = new Angkot(
   'tom', ['antapani', 'ciroyom'], [], 0
 );
 
-//To Access Ketik 
 
 
-
+//* u Can create OBJECT with 3 way : Object Literal, Function Declaration and Constructor Function (keyward New) 
