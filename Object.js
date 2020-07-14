@@ -3,7 +3,7 @@
 // this is example using constructor function (keyword new)
 
 function Angkot(sopir, trayek, penumpang, kas){
-//   Properti
+//   Property
   this.sopir = sopir;
   this.trayek = trayek;
   this.penumpang = penumpang;
